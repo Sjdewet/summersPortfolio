@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@1,300&display=swap');
+/*Universal selector */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*root */
+:root{
+    --primaryColor: black;
+    --secondaryColour: White;
+    --alternativeColor:gray;
+    --borderColor:#2b2211;
+    font-family: 'Zilla Slab', serif;
+}
+/* Logo */
+#logo {
+    width: 5rem;
+}
